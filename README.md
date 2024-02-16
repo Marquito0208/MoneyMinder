@@ -5,4 +5,4 @@
 [ ] CRUD MOvimentação
 [ ] CRUD Categorias
 [ ] DashBoard
-[ ] Autenticação
+[ ] Autenticaçãoadasasdasdasdasdasdasdasdasdasd
